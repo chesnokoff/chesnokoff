@@ -8,7 +8,8 @@ I am also an active contributor to Apache Ignite, where I work on improving func
 
 Always eager to learn, share, and contribute to open-source projects that make an impact. 
 
-* 🌍  I'm based in Moscow * ✉️  You can contact me at [chesnokoff239@gmail.com](mailto:chesnokoff239@gmail.com)
+* 🌍  I'm based in Moscow
+* ✉️  You can contact me at [chesnokoff239@gmail.com](mailto:chesnokoff239@gmail.com)
 * 🚀  I'm currently working on [jSymbolic2](http://github.com/chesnokoff/jSymbolic/tree/main)
 * 🤝  I'm open to collaborating on jSymbolic2
 
