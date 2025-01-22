@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandr Chesnokov ===========================================================================================================================================  Java developer and teaching assistant -------------------------------------  I am a passionate Java developer with a background in Android application development. Currently, my focus is on optimizing code performance, ensuring clean and maintainable code, and exploring architectural best practices. As a Teaching Assistant at MIPT, I assist students in mastering Java development, sharing my knowledge and fostering a deeper understanding of programming concepts. I am also an active contributor to Apache Ignite, where I work on improving functionality and solving challenging problems within the distributed systems domain. Always eager to learn, share, and contribute to open-source projects that make an impact.  * 🌍  I'm based in Moscow * ✉️  You can contact me at [chesnokoff239@gmail.com](mailto:chesnokoff239@gmail.com) * 🚀  I'm currently working on [jSymbolic2](http://github.com/chesnokoff/jSymbolic/tree/main) * 🤝  I'm open to collaborating on jSymbolic2
 
-<!--
-**chesnokoff/chesnokoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.github.com/chesnokoff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chesnokoff?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills  
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/chesnokoff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/chesnokoff"><img src="https://github-readme-stats.vercel.app/api?username=chesnokoff&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chesnokoff's GitHub stats" /></a>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/chesnokoff/jSymbolic" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chesnokoff&repo=jSymbolic&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/chesnokoff/ignite" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chesnokoff&repo=ignite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
