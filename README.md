@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandr Chesnokov ===========================================================================================================================================  Java developer and teaching assistant -------------------------------------  I am a passionate Java developer with a background in Android application development. Currently, my focus is on optimizing code performance, ensuring clean and maintainable code, and exploring architectural best practices. 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandr Chesnokov
+
+I am a passionate Java developer with a background in Android application development. Currently, my focus is on optimizing code performance, ensuring clean and maintainable code, and exploring architectural best practices. 
 
 As a Teaching Assistant at MIPT, I assist students in mastering Java development, sharing my knowledge and fostering a deeper understanding of programming concepts. 
 
