@@ -9,9 +9,14 @@ Java developer contributing to [Apache Ignite](https://github.com/apache/ignite)
 - **Message compatibility**: moving discovery and communication messages to generated serializers, and checking their wire format on CI.
 - **JDK 17/21**: compilation, tests and runtime fixes, e.g. lost profiling records on JDK 21 caused by [JDK-8323782](https://bugs.openjdk.org/browse/JDK-8323782).
 
+Besides my own patches, I regularly review pull requests from other contributors in these areas.
+
 [Merged PRs in apache/ignite](https://github.com/apache/ignite/pulls?q=is%3Apr+is%3Amerged+author%3Achesnokoff) ·
 [in apache/ignite-extensions](https://github.com/apache/ignite-extensions/pulls?q=is%3Apr+is%3Amerged+author%3Achesnokoff) ·
 [JIRA tickets](https://issues.apache.org/jira/issues/?jql=project%20%3D%20IGNITE%20AND%20assignee%20%3D%20chesnokoff%20AND%20resolution%20in%20(Fixed%2C%20Done))
+
+[Reviewed PRs in apache/ignite](https://github.com/apache/ignite/pulls?q=is%3Apr+reviewed-by%3Achesnokoff+-author%3Achesnokoff) ·
+[in apache/ignite-extensions](https://github.com/apache/ignite-extensions/pulls?q=is%3Apr+reviewed-by%3Achesnokoff+-author%3Achesnokoff)
 
 #### Research
 
