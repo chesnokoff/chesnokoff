@@ -1,33 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksandr Chesnokov
+### Hi, I'm Aleksandr 👋
 
-I am a passionate Java developer with a background in Android application development. Currently, my focus is on optimizing code performance, ensuring clean and maintainable code, and exploring architectural best practices. 
+Java developer contributing to [Apache Ignite](https://github.com/apache/ignite). At MIPT I do research in empirical software engineering and work as a teaching assistant on a Java course.
 
-As a Teaching Assistant at MIPT, I assist students in mastering Java development, sharing my knowledge and fostering a deeper understanding of programming concepts. 
+#### What I work on in Apache Ignite
 
-I am also an active contributor to Apache Ignite, where I work on improving functionality and solving challenging problems within the distributed systems domain. 
+- **Rolling upgrade (IEP-132)**: version checks on node join, `control.sh` commands, distributed processes during an upgrade, compatibility tests on testcontainers.
+- **Performance statistics**: new operation types and system views in the profiling report, including the [ignite-extensions](https://github.com/apache/ignite-extensions) module.
+- **Message compatibility**: moving discovery and communication messages to generated serializers, and checking their wire format on CI.
+- **JDK 17/21**: compilation, tests and runtime fixes, e.g. lost profiling records on JDK 21 caused by [JDK-8323782](https://bugs.openjdk.org/browse/JDK-8323782).
 
-Always eager to learn, share, and contribute to open-source projects that make an impact. 
+[Merged PRs in apache/ignite](https://github.com/apache/ignite/pulls?q=is%3Apr+is%3Amerged+author%3Achesnokoff) ·
+[in apache/ignite-extensions](https://github.com/apache/ignite-extensions/pulls?q=is%3Apr+is%3Amerged+author%3Achesnokoff) ·
+[JIRA tickets](https://issues.apache.org/jira/issues/?jql=project%20%3D%20IGNITE%20AND%20assignee%20%3D%20chesnokoff%20AND%20resolution%20in%20(Fixed%2C%20Done))
 
-* 🌍  I'm based in Moscow
-* ✉️  You can contact me at [chesnokoff239@gmail.com](mailto:chesnokoff239@gmail.com)
-* 🚀  I'm currently working on [jSymbolic2](http://github.com/chesnokoff/jSymbolic/tree/main)
-* 🤝  I'm open to collaborating on jSymbolic2
+#### Research
 
+I study software quality on large samples of open-source code: how structural metrics, change history and static analysis findings relate to each other.
 
-<a href="https://www.github.com/chesnokoff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chesnokoff?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- A. Chesnokov, D. Kovalev. [JOSSeph: A reproducible, reusable, and extensible pipeline for large-scale extraction of software quality metrics from open-source Java projects](https://doi.org/10.1016/j.softx.2026.102965). *SoftwareX* (Elsevier), 35, 102965, 2026. Code: [chesnokoff/josseph](https://github.com/chesnokoff/josseph)
 
-Skills  
+#### Other projects
 
-<p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a> </p> 
-Socials  <p align="left"> <a href="https://www.github.com/chesnokoff" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+- [Apache Ignite abbreviation plugin](https://github.com/apache/ignite-abbrev-plugin): IntelliJ IDEA plugin, revived for JDK 17 and released 4.0.0
 
-Badges
+#### Contact
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chesnokoff"><img src="https://github-readme-stats.vercel.app/api?username=chesnokoff&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chesnokoff's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/chesnokoff/jSymbolic" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chesnokoff&repo=jSymbolic&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/chesnokoff/ignite" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chesnokoff&repo=ignite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+[LinkedIn](https://www.linkedin.com/in/chesnokoff) · chesnokoff239@gmail.com
